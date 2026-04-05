@@ -1,8 +1,5 @@
 {
   "framework": "nextjs",
   "buildCommand": "npm run build",
-  "outputDirectory": ".next",
-  "env": {
-    "NEIS_API_KEY": "@neis-api-key"
-  }
+  "outputDirectory": ".next"
 }
